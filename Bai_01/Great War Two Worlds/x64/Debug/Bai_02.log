@@ -1,0 +1,6 @@
+﻿  Map.cpp
+E:\Tài liệu\2\OOP\Lab\Final\20127039\Bai_02\Map.cpp(214,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+E:\Tài liệu\2\OOP\Lab\Final\20127039\Bai_02\Map.cpp(19): warning C4715: 'Map::getInstance': not all control paths return a value
+  Bai_02.vcxproj -> E:\Tài liệu\2\OOP\Lab\Final\20127039\x64\Debug\Bai_02.exe

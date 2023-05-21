@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\Tài liệu\2\OOP\Lab\Final\20127039\Bai_01\main.cpp(37,22): warning C4018: '<': signed/unsigned mismatch
+E:\Tài liệu\2\OOP\Lab\Final\20127039\Bai_01\main.cpp(72,22): warning C4018: '<': signed/unsigned mismatch
+E:\Tài liệu\2\OOP\Lab\Final\20127039\Bai_01\main.cpp(109,22): warning C4018: '<': signed/unsigned mismatch
+  Bai_01.vcxproj -> E:\Tài liệu\2\OOP\Lab\Final\20127039\Debug\Bai_01.exe
